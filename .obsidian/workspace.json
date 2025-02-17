@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "19f108982cc88bd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a620a5764ee9800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e837c3c6df285e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识积累/分布式训练与通信.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分布式训练与通信"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91c9409759483a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0121d55924cb4563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e853c21830bb506b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6d410987fbeeb8f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d9d408107336aa8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5
+  },
+  "right": {
+    "id": "80be8cdc292e801c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7681e55455440c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3afb11eed95a29d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "基础知识积累/分布式训练与通信.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "分布式训练与通信 的反向链接列表"
+            }
+          },
+          {
+            "id": "f5b227e1847ed510",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "大模型/分词器.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "分词器 的出链列表"
+            }
+          },
+          {
+            "id": "b7fba9594b255150",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "65a477417f7d6e16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "基础知识积累/分布式训练与通信.md"
+              },
+              "icon": "lucide-list",
+              "title": "分布式训练与通信 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false
+    }
+  },
+  "active": "0e837c3c6df285e4",
+  "lastOpenFiles": [
+    "基础知识积累/attach/Pasted image 20240303185404.png.baiduyun.p.downloading",
+    "基础知识积累/attach/Pasted image 20231211114516.png.baiduyun.p.downloading",
+    "paper-llm/llm+轨迹预测.html.baiduyun.p.downloading",
+    "img/image-20230916233552759.png.baiduyun.p.downloading",
+    "img/image-20230916232959617.png.baiduyun.p.downloading",
+    "img/image-20230916213527636.png.baiduyun.p.downloading",
+    "img/image-20230915230330461.png.baiduyun.p.downloading",
+    "img/image-20230915225538864.png.baiduyun.p.downloading",
+    "img/image-20230915224240380.png.baiduyun.p.downloading",
+    "img/image-20230915223424841.png.baiduyun.p.downloading",
+    "img/image-20230915221012700.png.baiduyun.p.downloading",
+    "知乎文章/分布式训练与通信 1.md",
+    "基础知识积累/分布式训练与通信.md",
+    "目标检测/BEVFormer.md",
+    "目标检测/attach/Pasted image 20240418202448.png",
+    "目标检测/attach/Pasted image 20240417232113.png",
+    "目标检测/attach/Pasted image 20240401212746.png",
+    "目标检测/attach/Pasted image 20240401211317.png",
+    "目标检测/attach/Pasted image 20240401211135.png",
+    "目标检测/attach/Pasted image 20240401100833.png",
+    "模板/Pasted image 20230918213605.png",
+    "模板/Pasted image 20230918212840.png",
+    "模板/表格.md",
+    "模板/论文.md",
+    "模板/论文属性.md",
+    "经典必读/attach/Pasted image 20240423100930.png",
+    "经典必读/ViT.md",
+    "积累/环境常用.md",
+    "assets/分布式训练与通信/Pasted.md",
+    "基础知识积累/assets/分布式训练与通信/Pasted_image_20250215125828.png",
+    "基础知识积累/assets/分布式训练与通信/Pasted.md",
+    "大模型/基础结构/Flash Attention.md",
+    "基础知识积累/深度学习基础/梯度计算.md",
+    "基础知识积累/深度学习基础/循环神经网络.md",
+    "基础知识积累/深度学习基础/图神经网络GNN.md",
+    "阅读记录/2023-08-17.md",
+    "阅读记录/2023-08-19.md",
+    "文献调研/不变特征提取.md",
+    "轨迹预测/TNT.md",
+    "大模型/分词器.md",
+    "基础知识积累/数据结构与算法/数据结构与算法.md",
+    "基础知识积累/数据结构与算法/最大前K个值.md",
+    "基础知识积累/数据结构与算法/动态规划.md",
+    "基础知识积累/数据结构与算法/二叉树.md",
+    "基础知识积累/概率论/信息论.md",
+    "基础知识积累/深度学习基础/初始化方法.md"
+  ]
+}

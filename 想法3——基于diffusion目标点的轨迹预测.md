@@ -1,0 +1,1 @@
+将intention信息融入diffusion中。

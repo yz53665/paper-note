@@ -1,0 +1,1 @@
++ 采用PagedAttention，将原本由于KV-cache而导致的内存浪费通过分块存储的方式进行改善
